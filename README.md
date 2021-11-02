@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/wdev007/aae302c452fe47a87d31dbf6ec3e2289/raw/34b7359ab7afed36223706bf0b87317b005d173e/githubcard.svg"/>
+<img align="right" height="590em" src="https://github.com/wdev007/wdev007/blob/main/profile.png?raw=true"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wellici Araujo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdev007&color=yellow" alt="Profile views" /> </p>
 
