@@ -31,8 +31,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wdev007&show_icons=true&theme=dark" alt="wellici's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdev007&layout=compact&theme=dark" alt="wellici's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wdev007&show_icons=true&theme=dracula" alt="wellici's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdev007&layout=compact&theme=dracula" alt="wellici's most languages"/>
 </p>
 
 <br><br>
