@@ -31,7 +31,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wdev007&show_icons=true&theme=dracula" alt="wellici's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wdev007&show_icons=true&theme=dracula&include_all_commits=true" alt="wellici's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdev007&layout=compact&theme=dracula" alt="wellici's most languages"/>
 </p>
 
