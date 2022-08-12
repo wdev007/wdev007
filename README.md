@@ -4,11 +4,11 @@
 
 - 🔥 FullStack Developer & Passionate about programming 
 
-- 🔭 I’m currently working at [Accenture](https://www.accenture.com/br-pt)
+- 🔭 I’m currently working at [Itaú](https://www.itau.com.br)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/wdev007)
 
-- 💬 Ask me about **JavaScript, Node.JS, React, Angular**
+- 💬 Ask me about **JavaScript, Node.JS, React, Angular, Python**
 
 - ⚡ Fun fact **Oneye 😜**
 
