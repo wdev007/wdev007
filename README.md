@@ -10,7 +10,6 @@
 
 - 💬 Ask me about **JavaScript, Node.JS, React, Angular, Python**
 
-- ⚡ Fun fact **Oneye 😜**
 
 <br><br>
 
