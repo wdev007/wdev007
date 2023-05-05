@@ -43,10 +43,7 @@
 <a href="https://codepen.io/wdev007" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-wellici-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/wdev007" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-wellici-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/wellici-ara%C3%BAjo-10234b165" target="_blank">
+<a href="https://www.linkedin.com/in/wellici-araujo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-wellici-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/wellici_" target="_blank">
