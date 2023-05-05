@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://github.com/wdev007/wdev007/blob/main/profile.png?raw=true"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wellici Araujo</h1>
+<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wellici Araujo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdev007&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 FullStack Developer & Passionate about programming 
