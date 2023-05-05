@@ -43,6 +43,9 @@
 <a href="https://codepen.io/wdev007" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-wellici-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
+  <a href="https://www.hackerrank.com/wdev007" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+</a>
 <a href="https://www.linkedin.com/in/wellici-araujo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-wellici-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
