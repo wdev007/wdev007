@@ -41,10 +41,10 @@
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/wdev007" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-wellici-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-wdev007-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
   <a href="https://www.hackerrank.com/wdev007" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Hackerrank-05122A?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  <img align="center" src="https://img.shields.io/badge/-wdev007-05122A?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
 <a href="https://www.linkedin.com/in/wellici-araujo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-wellici-05122A?style=flat&logo=linkedin" alt="linkedin"/>
